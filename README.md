@@ -17,3 +17,5 @@ G: show/hide grid
 F1: reset scene
 F12: Quit
 
+![picture](misc/rover_image.jpg)
+![picture](misc/rover-autonomous-example-1.gif)
